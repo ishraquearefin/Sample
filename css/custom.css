@@ -1,0 +1,7 @@
+.li-style a{
+    display:inline-block;
+    text-decoration: none;
+    margin-right:15px;
+    padding-top: 1.3125rem;
+    padding-bottom: .3125rem;
+}
